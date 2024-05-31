@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "ab0cf875c8a16cd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d158a04903b931a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6d6b29d231c3865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "учеба/Алгебра 2 сем/Алгебра 2 сем.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a46db0d2cbe96ccc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2646aa946e5ae4e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a88c9cc16008a73b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0d0740f18a9ce79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae93e16e295c4ee4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "12a38472fcd1bf69",
+    "type": "split",
+    "children": [
+      {
+        "id": "71dcc87296816059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578064387369ba10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "учеба/Алгебра 2 сем/Алгебра 2 сем.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebb7dfe179b5973e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "учеба/Алгебра 2 сем/Алгебра 2 сем.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83c04d8da415e546",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8fb34cbae26b6f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "учеба/Алгебра 2 сем/Алгебра 2 сем.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "a88c9cc16008a73b",
+  "lastOpenFiles": [
+    "учеба/Алгебра 2 сем/Pasted image 20240527145850.png",
+    "учеба/Алгебра 2 сем/Алгебра 2 сем.md",
+    "учеба/Алгебра 2 сем/Pasted image 20240527151626.png",
+    "учеба/Алгебра 2 сем/Pasted image 20240527150424.png",
+    "учеба/Алгебра 2 сем/Pasted image 20240527150125.png",
+    "учеба/Алгебра 2 сем/Pasted image 20240527145933.png",
+    "учеба/Алгебра 2 сем/Pasted image 20240527145036.png",
+    "учеба/Алгебра 2 сем/Pasted image 20240527145622.png",
+    "учеба/Алгебра 2 сем/Pasted image 20240527145404.png",
+    "учеба/Алгебра 2 сем/Pasted image 20240527145208.png",
+    "учеба/Алгебра 2 сем/Pasted image 20240527144830.png",
+    "учеба/Алгебра 2 сем",
+    "учеба/Билеты по алгосам 1 сем.md",
+    "учеба/Алгебра 2 сем.canvas",
+    "второй мозг/Что надо сделать.md",
+    "2024-05-24.md",
+    "Без названия.canvas",
+    "второй мозг/Что надо выучить, почитать, посмотреть + полезные ссылки.md",
+    "второй мозг",
+    "учеба",
+    "2023-11-29.md"
+  ]
+}
