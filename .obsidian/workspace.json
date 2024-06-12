@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "учеба/Алгебра 2 сем/Алгебра 2 сем.md",
+                "file": "учеба/Алгосы 2 сем/Дегтярев лох.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "учеба/Алгебра 2 сем/Алгебра 2 сем.md",
+                "file": "учеба/Алгосы 2 сем/Дегтярев лох.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "учеба/Алгебра 2 сем/Алгебра 2 сем.md",
+                "file": "учеба/Алгосы 2 сем/Дегтярев лох.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "учеба/Алгебра 2 сем/Алгебра 2 сем.md"
+                "file": "учеба/Алгосы 2 сем/Дегтярев лох.md"
               }
             }
           }
@@ -147,19 +147,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a88c9cc16008a73b",
+  "active": "a6d6b29d231c3865",
   "lastOpenFiles": [
-    "учеба/Алгебра 2 сем/Pasted image 20240527145850.png",
+    "учеба/Алгосы 2 сем/Images/Pasted image 20240612152959.png",
+    "учеба/Алгосы 2 сем/Дегтярев лох.md",
+    "учеба/Алгосы 2 сем/Images/Pasted image 20240612152945.png",
+    "учеба/Алгосы 2 сем/Images/Pasted image 20240612152938.png",
+    "учеба/Алгосы 2 сем/Images/Pasted image 20240612152924.png",
+    "учеба/Алгосы 2 сем/Images/Pasted image 20240612152904.png",
+    "учеба/Алгосы 2 сем/Images/Pasted image 20240612152848.png",
+    "учеба/Алгосы 2 сем/Images/Pasted image 20240612152741.png",
+    "учеба/Алгосы 2 сем/Images/Pasted image 20240612152732.png",
+    "учеба/Алгосы 2 сем/Images/Pasted image 20240612152721.png",
+    "учеба/Алгосы 2 сем/Images/Pasted image 20240612152710.png",
+    "учеба/Untitled.canvas",
+    "учеба/Odd_even_sort_animation.gif.md",
+    "учеба/2024-05-30.md",
+    "учеба/Дискра 2 сем/Теория дискры в формате баллона с кислородом.md",
     "учеба/Алгебра 2 сем/Алгебра 2 сем.md",
-    "учеба/Алгебра 2 сем/Pasted image 20240527151626.png",
-    "учеба/Алгебра 2 сем/Pasted image 20240527150424.png",
-    "учеба/Алгебра 2 сем/Pasted image 20240527150125.png",
-    "учеба/Алгебра 2 сем/Pasted image 20240527145933.png",
-    "учеба/Алгебра 2 сем/Pasted image 20240527145036.png",
-    "учеба/Алгебра 2 сем/Pasted image 20240527145622.png",
-    "учеба/Алгебра 2 сем/Pasted image 20240527145404.png",
-    "учеба/Алгебра 2 сем/Pasted image 20240527145208.png",
-    "учеба/Алгебра 2 сем/Pasted image 20240527144830.png",
     "учеба/Алгебра 2 сем",
     "учеба/Билеты по алгосам 1 сем.md",
     "учеба/Алгебра 2 сем.canvas",
