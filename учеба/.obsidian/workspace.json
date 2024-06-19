@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгосы 2 сем/Дегтярев лох.md",
+                "file": "Дискра 2 сем/Теория дискры в формате баллона с кислородом.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Карты_карно",
+                "query": "tag:#Метод_Квайна_Маккасски_для_минимизации",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгосы 2 сем/Дегтярев лох.md",
+                "file": "Дискра 2 сем/Теория дискры в формате баллона с кислородом.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алгосы 2 сем/Дегтярев лох.md",
+                "file": "Дискра 2 сем/Теория дискры в формате баллона с кислородом.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алгосы 2 сем/Дегтярев лох.md"
+                "file": "Дискра 2 сем/Теория дискры в формате баллона с кислородом.md"
               }
             }
           }
@@ -159,30 +160,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b055c1ee7bba0ca2",
+  "active": "d606462ce6135eef",
   "lastOpenFiles": [
-    "Алгосы 2 сем/Images/Pasted image 20240612152959.png",
-    "Алгосы 2 сем/Images/Pasted image 20240612152945.png",
-    "Алгосы 2 сем/Images/Pasted image 20240612152938.png",
-    "Алгосы 2 сем/Images/Pasted image 20240612152924.png",
-    "Алгосы 2 сем/Images/Pasted image 20240612152904.png",
-    "Алгосы 2 сем/Images/Pasted image 20240612152848.png",
-    "Алгосы 2 сем/Images/Pasted image 20240612152741.png",
-    "Алгосы 2 сем/Images/Pasted image 20240612152732.png",
-    "Алгосы 2 сем/Images/Pasted image 20240612152721.png",
-    "Алгосы 2 сем/Images/Pasted image 20240612152710.png",
-    "Алгосы 2 сем/Images/Pasted image 20240612152657.png",
     "Алгосы 2 сем/Дегтярев лох.md",
+    "Дискра 2 сем/Теория дискры в формате баллона с кислородом.md",
+    "Дискра 2 сем/Images/Pasted image 20240617195925.png",
+    "Дискра 2 сем/Images/Pasted image 20240618203158.png",
+    "Дискра 2 сем/Images/Pasted image 20240618203141.png",
+    "Дискра 2 сем/Images/Pasted image 20240618203122.png",
+    "Алгебра 2 сем/Алгебра 2 сем.md",
+    "Дискра 2 сем/Images/Pasted image 20240618180012.png",
+    "Дискра 2 сем/Images/Pasted image 20240618175844.png",
+    "Дискра 2 сем/Images/Pasted image 20240618175828.png",
+    "Дискра 2 сем/Images/Pasted image 20240618145717.png",
+    "Дискра 2 сем/Images/Pasted image 20240618144849.png",
+    "Дискра 2 сем/Images/Pasted image 20240618144451.png",
     "Untitled.canvas",
     "Алгосы 2 сем/Images",
     "Untitled",
-    "Дискра 2 сем/Теория дискры в формате баллона с кислородом.md",
     "Алгосы 2 сем",
     "2024-05-30.md",
     "Дискра 2 сем/Images/Pasted image 20240113161900.png.md",
     "Дискра 2 сем/Images/Pasted image 20240530170158.md",
     "Дискра 2 сем/Images",
-    "Алгебра 2 сем/Алгебра 2 сем.md",
     "Дискра 2 сем",
     "Odd_even_sort_animation.gif.md",
     "Билеты по алгосам 1 сем.md"
