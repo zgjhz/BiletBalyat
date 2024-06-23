@@ -11,9 +11,11 @@
             "id": "a6d6b29d231c3865",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "учеба/Дискра 2 сем/Images/Pasted image 20240617162655.png"
+                "file": "учеба/Геома 2 сем/Теория геомы в формате баллона с говном.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "учеба/Дискра 2 сем/Images/Pasted image 20240617162655.png",
+                "file": "учеба/Геома 2 сем/Теория геомы в формате баллона с говном.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "учеба/Дискра 2 сем/Images/Pasted image 20240617162655.png",
+                "file": "учеба/Геома 2 сем/Теория геомы в формате баллона с говном.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "учеба/Дискра 2 сем/Images/Pasted image 20240617162655.png"
+                "file": "учеба/Геома 2 сем/Теория геомы в формате баллона с говном.md"
               }
             }
           }
@@ -137,16 +139,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "a88c9cc16008a73b",
   "lastOpenFiles": [
+    "учеба/Геома 2 сем/имагес/Pasted image 20240623142053.png",
+    "учеба/Дискра 2 сем/Images/Pasted image 20240617162655.png",
     "учеба/Дискра 2 сем/Теория дискры в формате баллона с кислородом.md",
     "учеба/Дискра 2 сем/Images/Pasted image 20240617165538.png",
     "учеба/Дискра 2 сем/Images/Pasted image 20240617163753.png",
@@ -157,7 +161,6 @@
     "учеба/Дискра 2 сем/Images/Pasted image 20240617163049.png",
     "учеба/Дискра 2 сем/Images/Pasted image 20240617163011.png",
     "учеба/Дискра 2 сем/Images/Pasted image 20240617162827.png",
-    "учеба/Дискра 2 сем/Images/Pasted image 20240617162757.png",
     "учеба/2024-05-30.md",
     "учеба/Алгосы 2 сем/Дегтярев лох.md",
     "учеба/Untitled.canvas",
