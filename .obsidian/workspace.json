@@ -11,9 +11,11 @@
             "id": "a6d6b29d231c3865",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "учеба/Геома 2 сем/имагес/Pasted image 20240625145845.png"
+                "file": "учеба/Геома 2 сем/Теория геомы в формате баллона с говном.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "12a38472fcd1bf69",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "учеба/Геома 2 сем/имагес/Pasted image 20240625145845.png",
+                "file": "учеба/Геома 2 сем/Теория геомы в формате баллона с говном.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "учеба/Геома 2 сем/имагес/Pasted image 20240625145845.png",
+                "file": "учеба/Геома 2 сем/Теория геомы в формате баллона с говном.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "учеба/Геома 2 сем/имагес/Pasted image 20240625145845.png"
+                "file": "учеба/Геома 2 сем/Теория геомы в формате баллона с говном.md"
               }
             }
           }
@@ -145,8 +148,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a88c9cc16008a73b",
+  "active": "a6d6b29d231c3865",
   "lastOpenFiles": [
+    "Pasted image 20240626145102.png",
+    "учеба/Геома 2 сем/имагес/Pasted image 20240625145845.png",
     "учеба/Геома 2 сем/Теория геомы в формате баллона с говном.md",
     "учеба/Геома 2 сем/имагес/Pasted image 20240625213059.png",
     "учеба/Геома 2 сем/имагес/Pasted image 20240625212741.png",
@@ -157,7 +162,6 @@
     "учеба/Геома 2 сем/имагес/Pasted image 20240625150319.png",
     "учеба/Геома 2 сем/имагес/Pasted image 20240625150235.png",
     "учеба/Геома 2 сем/имагес/Pasted image 20240625150215.png",
-    "учеба/Геома 2 сем/имагес/Pasted image 20240625145908.png",
     "учеба/Дискра 2 сем/Теория дискры в формате баллона с кислородом.md",
     "учеба/2024-05-30.md",
     "учеба/Алгосы 2 сем/Дегтярев лох.md",
