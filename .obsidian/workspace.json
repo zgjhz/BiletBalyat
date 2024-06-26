@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "12a38472fcd1bf69",
@@ -148,9 +147,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a6d6b29d231c3865",
+  "active": "a88c9cc16008a73b",
   "lastOpenFiles": [
-    "Pasted image 20240626145102.png",
+    "учеба/Геома 2 сем/имагес/Pasted image 20240626145102.png",
     "учеба/Геома 2 сем/имагес/Pasted image 20240625145845.png",
     "учеба/Геома 2 сем/Теория геомы в формате баллона с говном.md",
     "учеба/Геома 2 сем/имагес/Pasted image 20240625213059.png",
